@@ -1,0 +1,117 @@
+{
+  "movies": [
+    {
+      "name": "Peaky blinders",
+      "image": "https://www.rionegro.com.ar/wp-content/uploads/2022/06/foto-ppal-Peaky-Blinders.jpg",
+      "resume": "Gran Bretaña vive la posguerra. Los soldados regresan, se acuñan nuevas revoluciones y nacen bandas criminales en una nación agitada. En Birmingham, una pandilla de gánsters callejeros asciende hasta convertirse en los reyes de la clase obrera.",
+      "date": "2013-09-12",
+      "id": 1,
+      "genres": [
+        "Thriller",
+        "Acción",
+        "Suspenso"
+      ]
+    },
+    {
+      "name": "Star Wars: el despertar de la fuerza",
+      "image": "https://surimiworld.files.wordpress.com/2015/12/d914e-el-despertar-de-la-fuerza-cartel.jpg",
+      "resume": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte, la galaxia tiene que enfrentarse a una nueva amenaza: el malvado Kylo Ren y la Primera Orden. Cuando el desertor Finn llega a un planeta desierto conoce a Rey, cuyo androide contiene un mapa secreto.",
+      "date": "2015-12-17",
+      "id": 6,
+      "genres": [
+        "Thriller",
+        "Acción",
+        "Suspenso"
+      ]
+    },
+    {
+      "name": "Spider-Man: Sin camino a casa",
+      "image": "https://www.themoviedb.org/t/p/original/jb2rDU1HJTQmJVgMA5zB4a88P7S.jpg",
+      "resume": "Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter decide pedirle ayuda al Doctor Extraño para recuperar su vida. Pero algo sale mal y provoca una fractura en el multiverso.",
+      "date": "2021-12-17",
+      "genres": [
+        "Thriller",
+        "Acción",
+        "Suspenso"
+      ],
+      "id": 10
+    },
+    {
+      "name": "Burbujas",
+      "image": "https://media.vandal.net/m/12-2021/20211271322409_1.jpg.webp",
+      "resume": "Tras una extraña lluvia de burbujas, Tokio ha quedado aislado del mundo exterior. Un grupo de jóvenes sin familia ha hecho de la ciudad un campo de batalla para los desafíos de parkour. Un día, Hibiki hace un movimiento demasiado arriesgado.",
+      "date": "2022-05-13",
+      "genres": [
+        "Drama",
+        "Ciencia ficción"
+      ],
+      "id": 11
+    },
+    {
+      "name": "Avengers: Endgame",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/image_1e5c5703.jpeg",
+      "resume": "Después de los eventos devastadores de \"Avengers: Infinity War\", el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar detenerlo y restaurar el orden en el universo de una vez por todas.",
+      "date": "2019-05-26",
+      "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Drama"
+      ],
+      "id": 12
+    },
+    {
+      "name": "Toy Story",
+      "image": "https://i.pinimg.com/originals/ee/9f/21/ee9f21432dac3689d2d3100d2055f151.jpg",
+      "resume": "Los juguetes de Andy, un niño de seis años, temen que un nuevo regalo les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito, trata de tranquilizarlos hasta que aparece Buzz Lightyear.",
+      "date": "1996-03-14",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Aventuras"
+      ],
+      "id": 13
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genre": "Terror"
+    },
+    {
+      "id": 2,
+      "genre": "Acción"
+    },
+    {
+      "id": 3,
+      "genre": "Comedia"
+    },
+    {
+      "id": 4,
+      "genre": "Ciencia ficción"
+    },
+    {
+      "id": 5,
+      "genre": "Thriller"
+    },
+    {
+      "id": 6,
+      "genre": "Drama"
+    },
+    {
+      "id": 7,
+      "genre": "Aventuras"
+    },
+    {
+      "id": 8,
+      "genre": "Suspenso"
+    },
+    {
+      "id": 9,
+      "genre": "Policíaca"
+    },
+    {
+      "id": 10,
+      "genre": "Historica"
+    }
+  ]
+}
